@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jyotibarawoot
--    graduate ENGINEER  
--    I’m currently learning full stack Web development 
+
 -    THIS IS VIRTUAL ASSISTANT BASED ON PYTHON
 -    THIS IS GREAT BEGINNER PROJECT 
 
